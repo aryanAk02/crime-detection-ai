@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    akash:
+      email: akash@gmail.com
+      name: Akash
+      password: $2b$12$tggDdUzxkpOZPnW6lFEpcelTwqNIBle00.nJ.IJeMeA73i2h7mxPy
+    ayush:
+      email: ayush@gmail.com
+      name: Ayush
+      password: $2b$12$iPKnrAXCz/bJlqkf/Me9/eqMQgefy7eECpdO3uFTLb3SXZZSlP4l2
+
+cookie:
+  expiry_days: 30
+  key: "my_app"                   # Must be string
+  name: "login_app"
+preauthorized:
+  emails:
+  - mahesh@gmail.com
